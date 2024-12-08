@@ -1,6 +1,6 @@
 # applesearchadsraper
 Files for the Apples Ad Search Scraper
-Apple Ads Repository Scraper
+# Apple Ads Repository Scraper
 This project is a web scraping tool built using Apify SDK and Crawlee. It automates the extraction of advertisement data from the Apple Ads Repository, supporting advanced filtering by developer, country/region, and date range.
 
 Features
